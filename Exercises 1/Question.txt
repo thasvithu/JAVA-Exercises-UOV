@@ -1,0 +1,11 @@
+1. Write a Java program convert the given temperature from degrees Fahrenheit(F) to degrees Celsius(C). C = 5/9(F – 32)
+
+2. Write a Java program convert the given Seconds to day, hours, minutes and seconds.
+
+3. Write a Java program to sum of the first n positive integers.
+
+4. Write a Java program convert to convert height(feet & inches) to cm.
+
+5. Write a Java program compute the circumference of a circle given the radius entered by the user. C = 2πr, A = πr2
+
+6. Write a Java program to check a given number is even or odd.
