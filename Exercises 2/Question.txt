@@ -1,0 +1,7 @@
+1. Find the maximum of two numbers. Modify these to three and four numbers.
+
+2. Allows a user to type in an English numeric month of the year (1, 2, etc....). the program should print the expanded US English form (January, February....) if possible.
+
+3. Simple calculator using if and/or switch Statement.
+
+4. Check the year is leap year or not if (year % 400 == 0 or ( year % 100 = 0 and year % 4 == 0)) than leap year otherwise not a leap year.
