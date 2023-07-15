@@ -1,0 +1,9 @@
+1. Calculate the product of the odd integers From 1 to 15;
+
+2. Allows the users to enter exactly twwnty floating-point values. The program the prints the sum, average,(arithmetic means maximum, and minimum of the values enterd).
+
+3. Allows a user to enter any number of non-negative integers. when the user enters a negative number/values the program no longer accepts input, and it dipalys the sum of the all the non-negative numbers is the entry, the sum is zero.
+
+4. Takes an integer value and return the number with its digits reverced. for example given number 7631, the method should return 1367.
+
+5. Create the multipplication table (from 1- 10) of a number.
