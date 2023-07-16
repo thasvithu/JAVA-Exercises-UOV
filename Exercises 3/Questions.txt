@@ -1,0 +1,12 @@
+Lecture3 2023.7.14
+-------------------
+
+1. Create a class called "Person" with a name and age attribute. create two instances of the "person" set their attributes using the constructor, and print their name and age.
+
+2. Create a class called "Dog" with a name and breed attributes. create two instances of the "Dog" class. Set their attributes Using the constructor and modify the attributes using the setter methods and print the updated values.
+
+3. Create a class called "Employee" with a name, job, title, and salary attributes and methods to calculate and update salary.
+
+4. Create a class called "Traffig Light" with attributes color and duration, and methods to change the colour and chack if it is red or green.
+
+5. Create a class called "Circle" with a radius attribute. you can access and modify this attribute calculate the area and curcumference of the circle.
