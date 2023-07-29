@@ -1,0 +1,9 @@
+1) Write a java method to check if an input String is a palindrom.
+
+2) Write a java method that will remove a given character from a string.
+
+3) How do you convert a string to a byte array in Java.
+
+4) Write a java program to print al permutation of a string.
+
+5) How do you convert a string to a character array in Java.
