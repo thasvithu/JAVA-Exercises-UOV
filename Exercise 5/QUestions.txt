@@ -1,0 +1,5 @@
+1) To create an abstract class Animal with an abstract method called Sound(), create sub class Lion and Tiger that enxtend the animal Class and implement the Sound() method to make a spefic sound for each animal.
+
+2) To create an abstract class Shape with abstract methods calculateArea() and calculatePerimeter(). Create sub classes Circle and Triangle that extends the Shape class and implements the respective methods to calculate the area and Perimeter of each Shape.
+
+3) TO Create an abstarct class BankAccount with abstarct methods deposit() and withdrawl(). crete asub classes SavingAccount, CurrentAccount that extend the BankAccount Class and implement the respective methods to handle deposits and withdrals for each account type.
